@@ -1,0 +1,12 @@
+flask
+flask-cors
+python-dotenv
+python-docx
+PyPDF2
+nltk
+pandas
+sentence-transformers
+torch
+transformers
+reportlab
+opencv-python
